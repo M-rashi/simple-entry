@@ -1,3 +1,3 @@
 # simple-entry
-this is my tool
+this is my tool.<br>
 author-rasheed
